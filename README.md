@@ -1,7 +1,10 @@
 # Frontend Development
 
-+ Guides
++ Courses(free)
+    + [30 Days to Learn HTML & CSS](http://learncss.tutsplus.com/)
+    + [30 Days to Learn jQuery](http://learnjquery.tutsplus.com/)
     + [Hack Design](http://hackdesign.org/courses/)
++ Guides
     + [Designer School](http://designer-school.com/)
     + [TheExpressiveWeb](http://beta.theexpressiveweb.com/)
     + [Talks To Help You Become A Better Front-End Engineer In 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
@@ -453,7 +456,7 @@
     + [GreenSock Animation Platform](http://www.greensock.com/get-started-js/) is a suite of tools for scripted animation.
         + [Learning Resources](http://www.greensock.com/learning/)
         + [Examples](http://ahrengot.com/tutorials/greensock-javascript-animation/)
-        + [Codepen Repository] (http://codepen.io/GreenSock/): Codepen repository with examples of Greensock usage and code
+        + [Codepen Repository](http://codepen.io/GreenSock/): Codepen repository with examples of Greensock usage and code
     + [scripty2](http://scripty2.com/) is an open source JavaScript framework for advanced HTML-based user interfaces. Or simply put, scripty2 helps you build a more delicious web.
     + [Animator.js](http://berniesumption.com/software/animator/): JavaScript animation library.
     + [Processing.js](http://processingjs.org/):  is the sister project of the popular Processing visual programming language, designed for the web. Processing.js makes your data visualizations, digital art, interactive animations, educational graphs, video games, etc. work using web standards and without any plug-ins.
