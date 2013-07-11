@@ -6,7 +6,7 @@
 + [Become a Better, Faster Front-End Developer](http://webdesign.tutsplus.com/articles/general/become-a-better-faster-front-end-developer/)
 + [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
 + [Front-end Code Standards & Best Practices](http://isobar-idev.github.io/code-standards/)
-+ [A Practical Guide to HTML & CSS - Learn How to Build Websites](http://learn.shayhowe.com/)
++ [The Accessibility Project](http://a11yproject.com/)
 + [TheExpressiveWeb](http://beta.theexpressiveweb.com/)
 
 ### Weekly & Daily Resources
@@ -28,6 +28,7 @@
 + [Hack Design](http://hackdesign.org/courses/)
 + [Designer School](http://designer-school.com/)
 + [Web Development Teaching Materials](http://www.teaching-materials.org/)
++ [A Practical Guide to HTML & CSS - Learn How to Build Websites](http://learn.shayhowe.com/)
 
 ### Programming & Markup Languages
 ---
