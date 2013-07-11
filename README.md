@@ -1,9 +1,10 @@
 ## Front-end Web Development Resources
 
-+ **Courses(free)***
-    + [30 Days to Learn HTML & CSS](http://learncss.tutsplus.com/)
-    + [30 Days to Learn jQuery](http://learnjquery.tutsplus.com/)
-    + [Hack Design](http://hackdesign.org/courses/)  
+####Courses(free)
++ [30 Days to Learn HTML & CSS](http://learncss.tutsplus.com/)
++ [30 Days to Learn jQuery](http://learnjquery.tutsplus.com/)
++ [Hack Design](http://hackdesign.org/courses/)
+
 + Guides
     + [Designer School](http://designer-school.com/)
     + [TheExpressiveWeb](http://beta.theexpressiveweb.com/)
