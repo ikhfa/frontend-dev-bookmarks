@@ -1,19 +1,19 @@
 ## Front-end Web Development Resources
 
-#### Courses(free)
+### Courses(free)
 ---
 + [30 Days to Learn HTML & CSS](http://learncss.tutsplus.com/)
 + [30 Days to Learn jQuery](http://learnjquery.tutsplus.com/)
 + [Hack Design](http://hackdesign.org/courses/)
 
-#### Guides
+### Guides
 ---
 + [Designer School](http://designer-school.com/)
 + [TheExpressiveWeb](http://beta.theexpressiveweb.com/)
 + [Talks To Help You Become A Better Front-End Engineer In 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
 + [Web Development Teaching Materials](http://www.teaching-materials.org/)
 
-#### Architecture
+### Architecture
 ---
 + [BEM](http://bem.info/method/)
 + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
@@ -36,96 +36,102 @@
 + [How To Manage Large jQuery Apps](http://www.slideshare.net/SlexAxton/how-to-manage-large-jquery-apps)
 + [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
 
-+ Workflow
-    + [Video: Javascript Development Workflow of 2013 by Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo) + [Slides](http://dl.dropboxusercontent.com/u/39519/talks/fluent/index.html)
-    + [Yeoman](http://yeoman.io/) is a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
-    + [Grunt](http://gruntjs.com/) is a task-based command line build tool for JavaScript projects.
-        + [Web development is getting complex. Let's go shopping.](http://ruudud.github.com/2012/12/22/grunt/)
-        + [GruntStart](https://github.com/tsvensen/gruntstart): A Grunt-enabled head-start with the H5BP, jQuery, Modernizr, and Respond. The building blocks to quickly get started with Grunt to create an optimized website.
-        + [A beginner’s guide to Grunt](http://blog.mattbailey.co/post/45519082789/a-beginners-guide-to-grunt)
-        + [Grunt - Synchronised Testing Between Browsers/Devices](http://blog.mattbailey.co/post/50337824984/grunt-synchronised-testing-between-browsers-devices)
-    + Front-end Process - Flat Builds and Automation
-        + [Introduction](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-1-introduction/)
-        + [Environment Setup & Yeoman](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-2-environment-setup-and-yeoman/)
-        + [Grunt Tasks](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-3-grunt-tasks/)
-        + [CSS Framework (Inuit)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-4-css-framework/)
-    + [CSSCSS](http://zmoazeni.github.io/csscss/): A CSS redundancy analyzer that analyzes redundancy.
-    + [Helium](https://github.com/geuis/helium-css): JavaScript tool to scan your site and show unused CSS.
-    + [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI): Make lossless optimisation of images part of your automated build process.
-    + [jpegoptim](https://github.com/tjko/jpegoptim): Utility to optimize/compress JPEG files.
-    + [Pngcrush](http://pmt.sourceforge.net/pngcrush/) is an optimizer for PNG (Portable Network Graphics) files.
-    + [Roots](http://roots.cx/) A light, super fast, and intuitive build system meant for rapid advanced front end development.
-    + [Sparky.js](http://sparkyjs.com/) is a client-side application scaffold which helps those who want to have organized structure in their app, but don't want to subscribe to a particular client-side MVC framework.
-    + [Brunch](http://brunch.io/) is an assembler for HTML5 applications. It‘s agnostic to frameworks, libraries, programming, stylesheet & templating languages and backend technology.
-    + [Mimosa](http://mimosajs.com) is a batteries included web development workflow tool that will get you coding in seconds rather than hunting down plugins and wrangling config for hours.
-    + [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
-    + [Cartero](https://github.com/rotundasoftware/cartero)
-    + [Mod](https://github.com/modulejs/modjs) is a task-based workflow tooling for web, it help developers quickly build robust and high-performance web applications.
-+ Weekly & Daily Resources
-    + [HTML5 Weekly](http://html5weekly.com/)
-    + [HTML5 Bookmarks](http://html5bookmarks.com/)
-    + [CSS Weekly](http://css-weekly.com/)
-    + [JavaScript Weekly](http://javascriptweekly.com/)
-    + [Sidebar.io](http://sidebar.io/) The 5 best design links, everyday
-    + [Web Design Weekly](http://web-design-weekly.com/)
-    + [Responsive Design Newsletter](http://responsivedesignweekly.com/)
-    + [echo.js](http://www.echojs.com/): Reddit-like Website for JavaScript Resources
-+ Programming & Markup Languages
-    + CSS
-        + [Understanding border-image](http://css-tricks.com/understanding-border-image/)
-        + [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
-        + [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
-        + [Github CSS Styleguide](https://github.com/styleguide/css)
-        + [Wordpress CSS Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/css/)
-    + JavaScript
-        + [Book: Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
-        + [JavaScript Study Guide](http://shiflett.org/blog/2012/apr/javascript-study-guide)
-        + [Javascript Closures](http://jibbering.com/faq/notes/closures/)
-        + [Combinator Recipes for Working With Objects in JavaScript](https://github.com/raganwald/homoiconic/blob/master/2012/12/combinators_1.md)
-            + [Part II](https://github.com/raganwald/homoiconic/blob/master/2012/12/combinators_2.md)
-        + [Prototypes and Inheritance in JavaScript](http://msdn.microsoft.com/en-us/magazine/ff852808.aspx)
-        + [ECMA 262-3 in detail](http://dmitrysoshnikov.com/tag/ecma-262-3/)
-        + [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
-        + [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-        + [Github JavaScript Styleguide](https://github.com/styleguide/javascript)
-        + [Wordpress JavaScript Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/javascript/)
-        + Extensions
-            + [RubyJS](http://rubyjs.org/) is a JavaScript implementation of all methods from Ruby classes like Array, String, Numbers, Time and more.
-            + [Mout](http://moutjs.com/) is a collection of modular JavaScript utilities that can be used in the browser as AMD modules or on node.js (without any overhead).
-            + [bacon.js](https://github.com/raimohanska/bacon.js): A small functional reactive programming lib for JavaScript.
-        + Flow Control
-            + [Coroutine Event Loops in Javascript](http://syzygy.st/javascript-coroutines/)
-            + [How To Node Article on promises describing both sides: node.js and browser](http://howtonode.org/promises)
-            + [Video by Douglas Crockford on monads which is touching Promises](http://www.youtube.com/watch?v=dkZFtimgAcM)
-            + [Не надо давать обещания, или Promises наоборот](http://habrahabr.ru/post/166419/)
-            + [Promises are the monad of asynchronous programming](http://blog.jcoglan.com/2011/03/11/promises-are-the-monad-of-asynchronous-programming/)
-            + [A Study on Solving Callbacks with JavaScript Generators](http://jlongster.com/A-Study-on-Solving-Callbacks-with-JavaScript-Generators)
-            + [What's The Point Of Promises?](http://www.kendoui.com/blogs/teamblog/posts/13-03-28/what-is-the-point-of-promises.aspx)
-            + [Promises/A+ Spec](http://promises-aplus.github.com/promises-spec/)
-            + [Callbacks vs Coroutines](https://medium.com/code-adventures/174f1fe66127)
-            + [This document is intended to explain how promises work](https://raw.github.com/kriskowal/q/master/design/README.js)
-            + [Video: Monads and Gonads (YUIConf Evening Keynote)](http://youtu.be/dkZFtimgAcM)
-            + Libraries
-                + [Standalone-Deferred](https://github.com/warpdesign/Standalone-Deferred)
-                + [Standalone-Deferred](https://github.com/Mumakil/Standalone-Deferred)
-                + [Flowy](https://github.com/geeqie/node-flowy)
-                + [Step](https://github.com/creationix/step)
-                + [kew](https://github.com/Obvious/kew) is a lightweight promise library optimized for node.js
-                + [jQuery Timing](http://creativecouple.github.com/jquery-timing/)
-                + [RSVP.js](https://github.com/tildeio/rsvp.js)
-                + [q](https://github.com/kriskowal/q)
-                + [Watch.js](https://github.com/melanke/Watch.JS)
-    + HTML
-        + [Book: Dive into HTML5](http://diveintohtml5.info/)
-        + [Principles of writing consistent, idiomatic HTML](https://github.com/necolas/idiomatic-html)
-        + [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
-        + [Wordpress HTML Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/html/)
-    + Higher Level Languages
-        + [Dart](http://www.dartlang.org/): Typed language compiled to JavaScript. By Google.
-        + [Sass](http://sass-lang.com/) is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It’s translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
-        + [Less](http://lesscss.org/) extends CSS with dynamic behavior such as variables, mixins, operations and functions.
-        + [Roole](http://roole.org/) is a language that compiles to CSS.
-        + [Stylus](http://learnboost.github.io/stylus/): Expressive, dynamic, robust CSS
+### Workflow
+---
++ [Video: Javascript Development Workflow of 2013 by Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo) + [Slides](http://dl.dropboxusercontent.com/u/39519/talks/fluent/index.html)
++ [Yeoman](http://yeoman.io/) is a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
++ [Grunt](http://gruntjs.com/) is a task-based command line build tool for JavaScript projects.
+    + [Web development is getting complex. Let's go shopping.](http://ruudud.github.com/2012/12/22/grunt/)
+    + [GruntStart](https://github.com/tsvensen/gruntstart): A Grunt-enabled head-start with the H5BP, jQuery, Modernizr, and Respond. The building blocks to quickly get started with Grunt to create an optimized website.
+    + [A beginner’s guide to Grunt](http://blog.mattbailey.co/post/45519082789/a-beginners-guide-to-grunt)
+    + [Grunt - Synchronised Testing Between Browsers/Devices](http://blog.mattbailey.co/post/50337824984/grunt-synchronised-testing-between-browsers-devices)
++ Front-end Process - Flat Builds and Automation
+    + [Introduction](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-1-introduction/)
+    + [Environment Setup & Yeoman](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-2-environment-setup-and-yeoman/)
+    + [Grunt Tasks](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-3-grunt-tasks/)
+    + [CSS Framework (Inuit)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-4-css-framework/)
++ [CSSCSS](http://zmoazeni.github.io/csscss/): A CSS redundancy analyzer that analyzes redundancy.
++ [Helium](https://github.com/geuis/helium-css): JavaScript tool to scan your site and show unused CSS.
++ [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI): Make lossless optimisation of images part of your automated build process.
++ [jpegoptim](https://github.com/tjko/jpegoptim): Utility to optimize/compress JPEG files.
++ [Pngcrush](http://pmt.sourceforge.net/pngcrush/) is an optimizer for PNG (Portable Network Graphics) files.
++ [Roots](http://roots.cx/) A light, super fast, and intuitive build system meant for rapid advanced front end development.
++ [Sparky.js](http://sparkyjs.com/) is a client-side application scaffold which helps those who want to have organized structure in their app, but don't want to subscribe to a particular client-side MVC framework.
++ [Brunch](http://brunch.io/) is an assembler for HTML5 applications. It‘s agnostic to frameworks, libraries, programming, stylesheet & templating languages and backend technology.
++ [Mimosa](http://mimosajs.com) is a batteries included web development workflow tool that will get you coding in seconds rather than hunting down plugins and wrangling config for hours.
++ [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
++ [Cartero](https://github.com/rotundasoftware/cartero)
++ [Mod](https://github.com/modulejs/modjs) is a task-based workflow tooling for web, it help developers quickly build robust and high-performance web applications.
+
+### Weekly & Daily Resources
+---
++ [HTML5 Weekly](http://html5weekly.com/)
++ [HTML5 Bookmarks](http://html5bookmarks.com/)
++ [CSS Weekly](http://css-weekly.com/)
++ [JavaScript Weekly](http://javascriptweekly.com/)
++ [Sidebar.io](http://sidebar.io/) The 5 best design links, everyday
++ [Web Design Weekly](http://web-design-weekly.com/)
++ [Responsive Design Newsletter](http://responsivedesignweekly.com/)
++ [echo.js](http://www.echojs.com/): Reddit-like Website for JavaScript Resources   
+
+### Programming & Markup Languages
+---
++ CSS
+    + [Understanding border-image](http://css-tricks.com/understanding-border-image/)
+    + [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
+    + [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
+    + [Github CSS Styleguide](https://github.com/styleguide/css)
+    + [Wordpress CSS Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/css/)
++ JavaScript
+    + [Book: Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
+    + [JavaScript Study Guide](http://shiflett.org/blog/2012/apr/javascript-study-guide)
+    + [Javascript Closures](http://jibbering.com/faq/notes/closures/)
+    + [Combinator Recipes for Working With Objects in JavaScript](https://github.com/raganwald/homoiconic/blob/master/2012/12/combinators_1.md)
+        + [Part II](https://github.com/raganwald/homoiconic/blob/master/2012/12/combinators_2.md)
+    + [Prototypes and Inheritance in JavaScript](http://msdn.microsoft.com/en-us/magazine/ff852808.aspx)
+    + [ECMA 262-3 in detail](http://dmitrysoshnikov.com/tag/ecma-262-3/)
+    + [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
+    + [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+    + [Github JavaScript Styleguide](https://github.com/styleguide/javascript)
+    + [Wordpress JavaScript Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/javascript/)
+    + Extensions
+        + [RubyJS](http://rubyjs.org/) is a JavaScript implementation of all methods from Ruby classes like Array, String, Numbers, Time and more.
+        + [Mout](http://moutjs.com/) is a collection of modular JavaScript utilities that can be used in the browser as AMD modules or on node.js (without any overhead).
+        + [bacon.js](https://github.com/raimohanska/bacon.js): A small functional reactive programming lib for JavaScript.
+    + Flow Control
+        + [Coroutine Event Loops in Javascript](http://syzygy.st/javascript-coroutines/)
+        + [How To Node Article on promises describing both sides: node.js and browser](http://howtonode.org/promises)
+        + [Video by Douglas Crockford on monads which is touching Promises](http://www.youtube.com/watch?v=dkZFtimgAcM)
+        + [Не надо давать обещания, или Promises наоборот](http://habrahabr.ru/post/166419/)
+        + [Promises are the monad of asynchronous programming](http://blog.jcoglan.com/2011/03/11/promises-are-the-monad-of-asynchronous-programming/)
+        + [A Study on Solving Callbacks with JavaScript Generators](http://jlongster.com/A-Study-on-Solving-Callbacks-with-JavaScript-Generators)
+        + [What's The Point Of Promises?](http://www.kendoui.com/blogs/teamblog/posts/13-03-28/what-is-the-point-of-promises.aspx)
+        + [Promises/A+ Spec](http://promises-aplus.github.com/promises-spec/)
+        + [Callbacks vs Coroutines](https://medium.com/code-adventures/174f1fe66127)
+        + [This document is intended to explain how promises work](https://raw.github.com/kriskowal/q/master/design/README.js)
+        + [Video: Monads and Gonads (YUIConf Evening Keynote)](http://youtu.be/dkZFtimgAcM)
+        + Libraries
+            + [Standalone-Deferred](https://github.com/warpdesign/Standalone-Deferred)
+            + [Standalone-Deferred](https://github.com/Mumakil/Standalone-Deferred)
+            + [Flowy](https://github.com/geeqie/node-flowy)
+            + [Step](https://github.com/creationix/step)
+            + [kew](https://github.com/Obvious/kew) is a lightweight promise library optimized for node.js
+            + [jQuery Timing](http://creativecouple.github.com/jquery-timing/)
+            + [RSVP.js](https://github.com/tildeio/rsvp.js)
+            + [q](https://github.com/kriskowal/q)
+            + [Watch.js](https://github.com/melanke/Watch.JS)
++ HTML
+    + [Book: Dive into HTML5](http://diveintohtml5.info/)
+    + [Principles of writing consistent, idiomatic HTML](https://github.com/necolas/idiomatic-html)
+    + [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+    + [Wordpress HTML Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/html/)
++ Higher Level Languages
+    + [Dart](http://www.dartlang.org/): Typed language compiled to JavaScript. By Google.
+    + [Sass](http://sass-lang.com/) is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It’s translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
+    + [Less](http://lesscss.org/) extends CSS with dynamic behavior such as variables, mixins, operations and functions.
+    + [Roole](http://roole.org/) is a language that compiles to CSS.
+    + [Stylus](http://learnboost.github.io/stylus/): Expressive, dynamic, robust CSS
+    
 + Frameworks
     + JavaScript
         + [Choosing a framework](http://todomvc.com/)
