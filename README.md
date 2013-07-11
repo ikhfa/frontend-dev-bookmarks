@@ -6,6 +6,7 @@
 + [Become a Better, Faster Front-End Developer](http://webdesign.tutsplus.com/articles/general/become-a-better-faster-front-end-developer/)
 + [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
 + [Front-end Code Standards & Best Practices](http://isobar-idev.github.io/code-standards/)
++ [A Practical Guide to HTML & CSS - Learn How to Build Websites](http://learn.shayhowe.com/)
 + [TheExpressiveWeb](http://beta.theexpressiveweb.com/)
 
 ### Weekly & Daily Resources
@@ -21,6 +22,7 @@
 
 ### Course
 ---
++ [Codecademy](http://www.codecademy.com/)
 + [30 Days to Learn HTML & CSS](http://learncss.tutsplus.com/)
 + [30 Days to Learn jQuery](http://learnjquery.tutsplus.com/)
 + [Hack Design](http://hackdesign.org/courses/)
@@ -90,7 +92,7 @@
     + [Stylus](http://learnboost.github.io/stylus/): Expressive, dynamic, robust CSS
 
 ### Architecture
----The Sass Way covers the latest news and topics on crafting CSS using Sass and Compass.
+---
 + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
     + [GitHub](https://github.com/bradfrost/patternlab)
     + [Video](http://www.besquare.me/session/atomic-design/) + [Slides](http://de.slideshare.net/bradfrostweb/atomic-design)
