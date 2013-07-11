@@ -1,16 +1,18 @@
 ## Front-end Web Development Resources
 
 #### Courses(free)
+---
 + [30 Days to Learn HTML & CSS](http://learncss.tutsplus.com/)
 + [30 Days to Learn jQuery](http://learnjquery.tutsplus.com/)
 + [Hack Design](http://hackdesign.org/courses/)
 
 #### Guides
+---
 + [Designer School](http://designer-school.com/)
 + [TheExpressiveWeb](http://beta.theexpressiveweb.com/)
 + [Talks To Help You Become A Better Front-End Engineer In 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
 + [Web Development Teaching Materials](http://www.teaching-materials.org/)
-    
+
 + Architecture
     + [BEM](http://bem.info/method/)
     + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
